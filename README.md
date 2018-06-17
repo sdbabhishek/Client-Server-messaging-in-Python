@@ -6,13 +6,13 @@ Download files and keep on Desktop
 first run the server program in terminal
 
 cd Desktop
-Server-python server.py
+python server.py
 
 
 Open other terminal to run client program shown below  
 
 cd Desktop
-client - python client.py localhost 9009
+python client.py localhost 9009
 
 repeat thi process as per no. of clients required
 
